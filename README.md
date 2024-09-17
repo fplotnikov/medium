@@ -1,2 +1,2 @@
 # medium
-Repo with demo
+Repo for future demo examples
